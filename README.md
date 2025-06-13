@@ -1,8 +1,5 @@
 
-Historical Analysis of USA newspapers from 1930 to 1945.
 
-"How did American newspapers between 1920 and 1940 portray the political consequences of financial crises and the process of financialization? 
-Specifically, how did regional newspapers frame the impact of events like the 1929 crash, the Great Depression, and New Deal financial reforms?
 <!--
 **ArifPiyash/ArifPiyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
